@@ -1,0 +1,20 @@
+{
+  "name": "array-cardio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "@types/jest": "23.3.12",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
